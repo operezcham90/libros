@@ -1,8 +1,8 @@
 {
-  "name": "adonis-fullstack-app",
-  "version": "4.1.0",
+  "name": "libros",
+  "version": "1.0.0",
   "adonis-version": "4.1.0",
-  "description": "The fullstack application boilerplate for Adonisjs",
+  "description": "Recopila y cataloga libros gratuitos en español sobre computación, informática y otros temas",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -10,9 +10,10 @@
   },
   "keywords": [
     "adonisjs",
-    "adonis-app"
+    "adonis-app",
+    "libros"
   ],
-  "author": "",
+  "author": "operezcham90",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
@@ -25,7 +26,8 @@
     "@adonisjs/ignitor": "^2.0.8",
     "@adonisjs/lucid": "^6.1.3",
     "@adonisjs/session": "^1.0.27",
-    "@adonisjs/shield": "^1.0.8"
+    "@adonisjs/shield": "^1.0.8",
+    "pg": "^8.0.2"
   },
   "devDependencies": {},
   "autoload": {
