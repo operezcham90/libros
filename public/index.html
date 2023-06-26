@@ -9,13 +9,23 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <title>Libros</title>
     <style>
-        .navbar-dark {
-            background-color: #444be4;
+        .navbar {
+            background-color: black;
+        }
+
+        .splash {
+            background-image: url('https://i.imgur.com/s7UMSeK.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+
+        .bg-black p {
+            background-color: rgba(0, 0, 0, 0.7);
         }
     </style>
 </head>
 
-<body class="bg-dark text-white">
+<body onload="start()" class="bg-dark text-white">
     <nav class="navbar navbar-dark navbar-expand mb-2">
         <div class="container-sm">
             <ul class="navbar-nav">
@@ -23,18 +33,17 @@
                     <a class="nav-link" href="/">Raíz</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Libros</a>
+                    <a class="nav-link" href="/">Lista</a>
                 </li>
             </ul>
         </div>
     </nav>
-    <div class="container-sm">
+    <div class="container-sm p-5 mb-4 bg-black rounded-3 splash">
         <h1>Libros</h1>
         <p>Un proyecto que recopila y cataloga libros gratuitos en español sobre computación, informática y otros temas
             afines. Su objetivo es brindar acceso fácil y organizado a recursos educativos para aquellos interesados en
             ampliar sus conocimientos en estos campos.</p>
     </div>
-    <img src="https://i.imgur.com/JUPmtDh.png" alt="📘" class="img-fluid mx-auto d-block" width="1024" height="1024">
 </body>
 
 </html>
