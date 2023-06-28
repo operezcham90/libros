@@ -20,7 +20,7 @@ https://doi.org/10.22201/sdi.9786070217821p.2010
 [Introducción a la estadística empresarial](https://openstax.org/details/books/introducci%C3%B3n-estad%C3%ADstica-empresarial).
 [OpenStax](https://openstax.org/).
 * Marco Galindo, M. & Vilaplana Pastó, J. (2010).
-[Introducción a la programación](https://openlibra.com/en/book/introduccion-a-la-programacion).
+[Introducción a la programación](https://www.guao.org/sites/default/files/biblioteca/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n.pdf).
 * Romero Muñoz, L. & García Villanueva, M. (2020). 
 [Matemáticas básicas: de lo intuitivo y concreto a lo abstracto](https://membresias.amexcomp.mx/media/publicaciones/matematicas-basicas-2020.pdf). 
 [Academia Mexicana de Computación, A.C.](https://membresias.amexcomp.mx/publications/list-books/)
