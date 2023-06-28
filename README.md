@@ -25,4 +25,4 @@ https://doi.org/10.22201/sdi.9786070217821p.2010
 [Matemáticas básicas: de lo intuitivo y concreto a lo abstracto](https://membresias.amexcomp.mx/media/publicaciones/matematicas-basicas-2020.pdf). 
 [Academia Mexicana de Computación, A.C.](https://membresias.amexcomp.mx/publications/list-books/)
 * Saucedo, R. (2015).
-[Manual de Programación Lógica: Introducción a la Programación con la ayuda de PseInt](https://openlibra.com/en/book/manual-de-programacion-logica).
+[Manual de Programación Lógica: Introducción a la Programación con la ayuda de PseInt](https://www.rua.udg.mx/portal/recursos/ficha/4950/manual-de-programacion-logica-introduccion-a-la-programacion-con-la-ayuda-de-pseint).
