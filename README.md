@@ -7,7 +7,7 @@ Un proyecto que recopila y cataloga libros gratuitos en español sobre computaci
 [Universidad Nacional Autónoma de México, Secretaría de Desarrollo Institucional.](https://www.sdi.unam.mx/) 
 https://doi.org/10.22201/sdi.9786070217821p.2010
 * Fernández, I. (2012). 
-[Aprenda GIMP a los tropezones](https://openlibra.com/en/book/aprenda-gimp-a-los-tropezones).
+[Aprenda GIMP a los tropezones](https://irisfernandez.com.ar/betaweblog/index.php/2012/09/13/aprenda-gimp-a-los-tropezones-2/).
 * García, J. R. (2019).
 [Introducción al Pensamiento Computacional](https://www.researchgate.net/publication/339273992_Introduccion_al_Pensamiento_Computacional).
 Editorial Universitaria Ramón Areces.
