@@ -8,6 +8,9 @@ Un proyecto que recopila y cataloga libros gratuitos en español sobre computaci
 https://doi.org/10.22201/sdi.9786070217821p.2010
 * Fernández, I. (2012). 
 [Aprenda GIMP a los tropezones](https://openlibra.com/en/book/aprenda-gimp-a-los-tropezones).
+* García, J. R. (2019).
+[Introducción al Pensamiento Computacional](https://www.researchgate.net/publication/339273992_Introduccion_al_Pensamiento_Computacional).
+Editorial Universitaria Ramón Areces.
 * Guevara Nieves, P. (2023).
 [Programacion Orientada A Objetos con gatitos](https://github.com/paulinacarolina/ProgramacionOrientadaAObjetosConGatitos).
 * Herrera Goás, J. (2011). 
