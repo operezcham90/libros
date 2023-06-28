@@ -14,7 +14,7 @@ https://doi.org/10.22201/sdi.9786070217821p.2010
 * Guevara Nieves, P. (2023).
 [Programacion Orientada A Objetos con gatitos](https://github.com/paulinacarolina/ProgramacionOrientadaAObjetosConGatitos).
 * Herrera Goás, J. (2011). 
-[Curso práctico de Inkscape: Logo a logo](https://openlibra.com/en/book/inkscape-logo-a-logo)
+[Curso práctico de Inkscape: Logo a logo](https://archive.org/details/CursoPracticoDeInkscapeLogoALogo)
 (Segunda Edición).
 * Holmes, A., Illowsky, B., & Dean, S. (2022).
 [Introducción a la estadística empresarial](https://openstax.org/details/books/introducci%C3%B3n-estad%C3%ADstica-empresarial).
