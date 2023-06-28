@@ -3,7 +3,9 @@
 Un proyecto que recopila y cataloga libros gratuitos en español sobre computación, informática y otros temas. ✨
 
 * Fernández, I. (2012). 
-[Aprenda GIMP a los tropezones](https://openlibra.com/en/book/aprenda-gimp-a-los-tropezones). 
+[Aprenda GIMP a los tropezones](https://openlibra.com/en/book/aprenda-gimp-a-los-tropezones).
+* Guevara Nieves, P. (2023).
+[Programacion Orientada A Objetos con gatitos](https://github.com/paulinacarolina/ProgramacionOrientadaAObjetosConGatitos).
 * Herrera Goás, J. (2011). 
 [Curso práctico de Inkscape: Logo a logo](https://openlibra.com/en/book/inkscape-logo-a-logo)
 (Segunda Edición).
