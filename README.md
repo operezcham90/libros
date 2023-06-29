@@ -34,3 +34,6 @@ Universidad Autónoma Metropolitana.
 [Academia Mexicana de Computación, A.C.](https://membresias.amexcomp.mx/publications/list-books/)
 * Saucedo, R. (2015).
 [Manual de Programación Lógica: Introducción a la Programación con la ayuda de PseInt](https://www.rua.udg.mx/portal/recursos/ficha/4950/manual-de-programacion-logica-introduccion-a-la-programacion-con-la-ayuda-de-pseint).
+* Solsona, F. (2007).
+[Manual de supervivencia en Linux](http://www.librosoa.unam.mx/handle/123456789/283).
+[Universidad Nacional Autónoma de México](http://www.librosoa.unam.mx/).
