@@ -30,7 +30,7 @@ https://doi.org/10.22201/sdi.9786070217821p.2010
 [Universidad Autónoma Metropolitana](http://dccd.cua.uam.mx/repositorio/libros.php).
 * Marco Galindo, M. & Vilaplana Pastó, J. (2010).
 [Introducción a la programación](https://www.guao.org/sites/default/files/biblioteca/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n.pdf).
-Universitat Oberta de Catalunya.
+[Universitat Oberta de Catalunya](https://openaccess.uoc.edu/).
 * Marzal Varó, A., Gracia Luengo, I. (2010).
 [Introducción a la programación con C](https://archive.org/details/2010IntroduccionALaProgramacionConC).
 [Universitat Jaume I](https://www.uji.es/departaments/com/base/estructura/personal/?p_departamento=1443&p_profesor=65214).
