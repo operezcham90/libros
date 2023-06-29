@@ -35,7 +35,8 @@ https://doi.org/10.22201/sdi.9786070217821p.2010
 [Introducción a la programación con C](https://archive.org/details/2010IntroduccionALaProgramacionConC).
 [Universitat Jaume I](https://www.uji.es/departaments/com/base/estructura/personal/?p_departamento=1443&p_profesor=65214).
 * Pineda Cortés, L. A. (2021).
-[Racionalidad Computacional](https://membresias.amexcomp.mx/media/publicaciones/racionalidad-comp-2021.pdf)
+[Racionalidad Computacional](https://membresias.amexcomp.mx/media/publicaciones/racionalidad-comp-2021.pdf).
+[Academia Mexicana de Computación, A.C.](https://membresias.amexcomp.mx/publications/list-books/)
 * Romero Muñoz, L. & García Villanueva, M. (2020). 
 [Matemáticas básicas: de lo intuitivo y concreto a lo abstracto](https://membresias.amexcomp.mx/media/publicaciones/matematicas-basicas-2020.pdf). 
 [Academia Mexicana de Computación, A.C.](https://membresias.amexcomp.mx/publications/list-books/)
