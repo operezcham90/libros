@@ -30,6 +30,9 @@ Universidad Autónoma Metropolitana.
 Universidad Autónoma Metropolitana.
 * Marco Galindo, M. & Vilaplana Pastó, J. (2010).
 [Introducción a la programación](https://www.guao.org/sites/default/files/biblioteca/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n.pdf).
+* Marzal Varó, A., Gracia Luengo, I. (2010).
+[Introducción a la programación con C](https://archive.org/details/2010IntroduccionALaProgramacionConC).
+Universitat Jaume I.
 * Pineda Cortés, L. A. (2021).
 [Racionalidad Computacional](https://membresias.amexcomp.mx/media/publicaciones/racionalidad-comp-2021.pdf)
 * Romero Muñoz, L. & García Villanueva, M. (2020). 
