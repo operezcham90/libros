@@ -5,6 +5,9 @@ Un proyecto que recopila y cataloga libros gratuitos en español sobre computaci
 * Benjumea, V., & Roldán, M. (2017).
 [Fundamentos de programación con el lenguaje de programación C++](https://archive.org/details/2017FundamentosDeProgramacionConElLenguajeDeProgramacionCPlusPlus/mode/2up).
 [Universidad de Málaga](http://www.lcc.uma.es/~vicente/docencia/index.html).
+* Bermón Angarita, L. (2021).
+[Ejercicios de programación orientada a objetos con Java y UML](https://repositorio.unal.edu.co/handle/unal/80546).
+[Universidad Nacional de Colombia](https://repositorio.unal.edu.co/).
 * Bordignon, F. R. A., & Iglesias, A. (2020).
 [Introducción al Pensamiento Computacional](https://unipe.educar.gob.ar/storage/app/file/ckeditor/introduccion-pensamiento-computacional-5e581511a29dc.pdf).
 [Educar S.E.](https://unipe.educar.gob.ar/unipe)
