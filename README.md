@@ -24,10 +24,10 @@ https://doi.org/10.22201/sdi.9786070217821p.2010
 [OpenStax](https://openstax.org/).
 * Jaimez González, C. R. (2015).
 [Programación de Web Dinámico](https://www.researchgate.net/publication/303805672_Programacion_de_Web_Dinamico).
-Universidad Autónoma Metropolitana.
+[Universidad Autónoma Metropolitana](http://dccd.cua.uam.mx/repositorio/libros.php).
 * Jaimez González, C. R. (2015).
 [Programación de Web Estático](https://www.researchgate.net/publication/303805570_Programacion_de_Web_Estatico).
-Universidad Autónoma Metropolitana.
+[Universidad Autónoma Metropolitana](http://dccd.cua.uam.mx/repositorio/libros.php).
 * Marco Galindo, M. & Vilaplana Pastó, J. (2010).
 [Introducción a la programación](https://www.guao.org/sites/default/files/biblioteca/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n.pdf).
 * Marzal Varó, A., Gracia Luengo, I. (2010).
