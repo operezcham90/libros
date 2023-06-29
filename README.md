@@ -3,7 +3,7 @@
 Un proyecto que recopila y cataloga libros gratuitos en español sobre computación, informática y otros temas. ✨
 
 * Bordignon, F., & Iglesias, A. (2020).
-[Introducción al Pensamiento Computacional](https://www.researchgate.net/publication/339273992_Introduccion_al_Pensamiento_Computacional).
+[Introducción al Pensamiento Computacional](https://unipe.educar.gob.ar/storage/app/file/ckeditor/introduccion-pensamiento-computacional-5e581511a29dc.pdf).
 [Educar S.E.](https://unipe.educar.gob.ar/unipe)
 * Bracho, J., Abreu León, J. L., Barot, M., Espejel Morales, R. A., Marquina Fábrega, M. L., Martínez Negrete, M. A., Morán López, J. L., Núñez Cabrera, M. C., Rajsbaum, S., Bribiesca Correa, E., Galaviz Casas, J., Solsona, F., Marquina, M. L., & Rajsbaum, S. (2010).
 [Enciclopedia de Conocimientos Fundamentales. Volumen 5. Matemáticas, Física y Computación](http://www.librosoa.unam.mx/handle/123456789/3048). 
